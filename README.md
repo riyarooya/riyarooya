@@ -35,15 +35,9 @@
   </a>
 </p>
 
-<!-- Align content to center -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyarooya&layout=compact" alt="Top Languages" />
-</p>
-<!-- Align content to center -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyarooya&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyarooya&" alt="riyarooya" />
-</p>
+<a href="https://github.com/riyarooya/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=riyarooya&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/riyarooya/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyarooya&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
+</a>
